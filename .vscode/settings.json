@@ -1,4 +1,4 @@
-{ "python.defaultInterpreterPath":""
+{ "python.defaultInterpreterPath":"venv\\Scripts\\python.exe"
 
 
 }
